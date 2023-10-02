@@ -22,7 +22,7 @@ numero_grande = 1e6 # 1 millón
 numero_pequeno = 1e-6 # 0.000001
 ```
 ### :loudspeaker:
-> [!NOTE]
+> [!NOTES]
 > **Enteros (int)**: Los enteros son números sin parte fraccionaria. Pueden ser positivos o negativos. Algunos ejemplos de enteros son 1, -5, 1000, etc. 
   Python tiene soporte para enteros de tamaño arbitrario, lo que significa que no tienes que preocuparte por desbordamientos de enteros.
 >
