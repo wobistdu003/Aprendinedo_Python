@@ -1,4 +1,4 @@
-# Tipoes de números en Python.
+# Tipos de números en Python.
 
 En Python, hay varios tipos de números que puedes usar en tus programas representando valores numéricos. Al mismo tiempo podemos especificar qué tipo de 
 dato se espera que tenga una variable, lo que puede ser útil en situaciones donde queremos asegurarnos de que estamos trabajando con el tipo de dato correcto.
