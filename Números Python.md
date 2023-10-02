@@ -25,6 +25,7 @@ numero_pequeno = 1e-6 # 0.000001
 > [!NOTE]
 > **Enteros (int)**: Los enteros son números sin parte fraccionaria. Pueden ser positivos o negativos. Algunos ejemplos de enteros son 1, -5, 1000, etc. 
   Python tiene soporte para enteros de tamaño arbitrario, lo que significa que no tienes que preocuparte por desbordamientos de enteros.
+
 > **Números de punto flotante (float)**: Los números de punto flotante representan valores con decimales. Pueden ser números reales positivos o negativos.
   Ejemplos de números de punto flotante son 3.14, -0.001, 2.0, etc.
 >**Números complejos (complex)**: Los números complejos son aquellos que tienen una parte real y una parte imaginaria. Pueden ser representados en Python
