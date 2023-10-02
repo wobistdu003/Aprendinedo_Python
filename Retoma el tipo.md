@@ -1,4 +1,4 @@
-# Definiendo una función tipo (tipe). 
+# Definiendo una función tipo (type). 
 
 Este código define una función llamada **found_type**. Esta función toma un argumento llamado (value) que verifica su tipo y luego imprime un mensaje en función de el mismo. 
 En consola imprimira los mensajes segun el tipo que le pase como argumento cuando se llama la función.
